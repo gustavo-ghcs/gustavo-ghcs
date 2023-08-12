@@ -1,4 +1,4 @@
-## 👋 Hello guys! I'm Gustavo and I'm majoring in Information Systems.
+## 👋 Hello guys! I'm Gustavo and I'm gratuating in Information Systems.
 <div style="display: inline_block"><br></div>
 
 ## Languages
