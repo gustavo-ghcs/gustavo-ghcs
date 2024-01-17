@@ -5,7 +5,7 @@
 <div align="center">
   <div style="display: inline_block"><br></div>
   <h1 align="center"> GitHub Statistics </h1>
-  <img align=";eft" alt="statistics" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ghcs&layout=compact&langs_count=16&theme=dracula">
+  <img alt="statistics" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ghcs&layout=compact&langs_count=16&theme=dracula">
 </div>
   
 <div align="center">
@@ -33,8 +33,4 @@
   <a href="http://linkedin.com/in/gustavo-de-hollanda/" target="_blank">
     <img width="25" src="https://github.com/LuigiGf/LuigiGf/blob/main/linkedin.svg">
   </a>
-  
 </div>
-
-
-
