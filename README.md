@@ -6,7 +6,12 @@
   <div style="display: inline_block"><br></div>
   <h1 align="center"> GitHub Statistics </h1>
   <img align=";eft" alt="statistics" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ghcs&layout=compact&langs_count=16&theme=dracula">
+</div>
   
+<div>
+  <div style="display: inline_block"><br></div>
+  <h2 align="center"> Languages </h2>
+  <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ## Languages
