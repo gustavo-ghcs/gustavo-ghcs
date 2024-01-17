@@ -1,5 +1,5 @@
 ## 👋 Hello guys! I'm Gustavo!
-### I'm gratuating in Information Systems on [Cin UFPE](https://portal.cin.ufpe.br/)
+### I'm gratuating in Information Systems at [Cin UFPE](https://portal.cin.ufpe.br/)
 
 
 <div align="center">
