@@ -8,10 +8,13 @@
   <img align=";eft" alt="statistics" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ghcs&layout=compact&langs_count=16&theme=dracula">
 </div>
   
-<div>
+<div align="center">
   <div style="display: inline_block"><br></div>
   <h2 align="center"> Languages </h2>
   <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" alt="swift-icon" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+  <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
 </div>
 
 ## Languages
