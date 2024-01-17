@@ -1,5 +1,13 @@
-## 👋 Hello guys! I'm Gustavo and I'm gratuating in Information Systems.
-<div style="display: inline_block"><br></div>
+## 👋 Hello guys! I'm Gustavo!
+### I'm gratuating in Information Systems on [Cin UFPE](https://portal.cin.ufpe.br/)
+
+
+<div align="center">
+  <div style="display: inline_block"><br></div>
+  <h1 align="center"> GitHub Statistics </h1>
+  <img align=";eft" alt="statistics" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ghcs&layout=compact&langs_count=16&theme=dracula">
+  
+</div>
 
 ## Languages
 
@@ -25,10 +33,5 @@
   <a href = "https://portal.cin.ufpe.br/"><img height="28" width="105" src="https://i.imgur.com/wYNGNjx.png" target="_blank"></a>
 </div>
 
-<div style="display: inline_block"><br></div>
 
-## GitHub Statistics
-<div>
-  <img align="centert" alt="statistics" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ghcs&layout=compact">
-</div>
 
