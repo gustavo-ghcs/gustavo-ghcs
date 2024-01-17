@@ -5,7 +5,13 @@
 <div align="center">
   <div style="display: inline_block"><br></div>
   <h1 align="center"> GitHub Statistics </h1>
-  <img alt="statistics" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ghcs&layout=compact&langs_count=16&theme=dracula">
+  <div style="display: inline_block"><br></div>
+  <a href="https://github.com/gustavo-ghcs/">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-ghcs&langs_count=16&theme=dracula" />
+</a>
+<a href="https://github.com/gustavo-ghcs/">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-ghcs&layout=compact&langs_count=16&theme=dracula" />
+</a>
 </div>
   
 <div align="center">
