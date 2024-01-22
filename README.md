@@ -1,5 +1,5 @@
-## 👋 Hello guys! I'm Gustavo!
-### I'm gratuating in Information Systems at [Cin UFPE](https://portal.cin.ufpe.br/)
+
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFFFF&size=25&center=true&vCenter=true&width=1000&lines=👋+Hello+guys!;I'm+Gustavo!;I'm+gratuating+in+Information+Systems+at+Cin+UFPE!;Be+Welcome!+:%29)
 
 
 <div align="center">
